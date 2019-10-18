@@ -1,3 +1,5 @@
-# Giphyapp
+# Giphygram
+
 ---
-Prgressive web App for displayiing the latest tranding Gifs from Giphy.com
+
+Progressive Web App for displaying the latest trending Gifs from Giphy.com
